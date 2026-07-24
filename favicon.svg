@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity d9731e185df3f205</metadata>
-  <rect width="64" height="64" rx="13" fill="hsl(227 72% 45%)"/>
-  <path d="M24 0h40v64H10Z" fill="hsl(305 81% 56%)" opacity="0.82"/>
-  <g transform="rotate(75 32 32)" opacity="0.42"><path d="M17 13h30v38H17zM10 24h44" fill="none" stroke="#101418" stroke-width="6" stroke-linejoin="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#101418" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">SF</text>
+  <title>구글 상위노출 대행</title>
+  <rect width="64" height="64" rx="15" fill="hsl(227 66% 33%)"/>
+  <g transform="rotate(270 32 32)"><path d="M32 12 52 32 32 52 12 32Z" fill="none" stroke="hsl(227 24% 96%)" stroke-width="6" stroke-linejoin="round"/><path d="M32 24 40 32 32 40 24 32Z" fill="hsl(312 68% 60%)"/></g>
 </svg>
